@@ -1,4 +1,4 @@
-# date:16/7
+<img width="1035" height="767" alt="image" src="https://github.com/user-attachments/assets/e8dfc168-db4e-439c-8149-b3118a6095a4" /># date:16/7
 # time spent:1hr
 ## description:
 To plan my custom handheld Pokedex, I researched open sourced retro consoles and electronics websites like mouser to find parts that balance performance.For the brain, I chose the powerful ESP32-S3  I paired this with a sharp 3.5inc ips display. The system features a rechargeable 2500 mAh li-po battery for hours of battery life, a MicroSD card slot to store the massive library of Pokemonn data and images, and a USB-C port connected directly to the chip for easy charging and programming. I included a physical D-pad (Up, Down, Left, Right, and an OK button), A/B action buttons, a 1W speaker with a small amplifier to play sound or noises.
@@ -41,6 +41,17 @@ first i have researched about different kinds of switches and then I added the b
 <img width="927" height="432" alt="image" src="https://github.com/user-attachments/assets/a4b7664d-8a31-4307-8793-ffd90ac7b779" />
 <img width="696" height="365" alt="image" src="https://github.com/user-attachments/assets/94ac835c-83dd-4fc9-9963-105d5f8dea15" />
 <img width="296" height="346" alt="image" src="https://github.com/user-attachments/assets/6ba5347d-30b3-495d-b643-d865078f7d43" />
+
+-------
+# date:17/7
+# time spent:1hr
+## description:
+Firstly i searched about different types of rgb light neede i thoought to keep the red rgb light but thinking about the future need i thought to kep an neopixel stick so that it supports ll the rgb light for my pokedex and i have completed all the changes needed for the v1 and now i have ran erc and there were many erros i have fixed all of them there we around 30 errors fixed each of them by going through every error block and then i completed solving the every errors and the errors count has become to 0!!
+## images:
+<img width="1035" height="767" alt="image" src="https://github.com/user-attachments/assets/52927304-03e3-477d-8bd7-71ab62d87ae5" />
+<img width="695" height="463" alt="image" src="https://github.com/user-attachments/assets/9ec4cacf-af38-4780-9c7f-8177b085e733" />
+<img width="1127" height="793" alt="image" src="https://github.com/user-attachments/assets/4ad82eb1-092e-40a7-9513-391762363393" />
+<img width="693" height="457" alt="image" src="https://github.com/user-attachments/assets/78169851-698c-4c8b-8bcf-b4b5ac382ad8" />
 
 -------
 
