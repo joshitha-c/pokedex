@@ -1,7 +1,8 @@
 # date:16/7
 # time spent:1hr
 ## description:
-To plan my custom handheld Pokédex, I researched open sourced retro consoles and electronics websites like mouser to find parts that balance performance.For the brain, I chose the powerful ESP32-S3  I paired this with a sharp 3.5inc ips display. The system features a rechargeable 2500 mAh li-po battery for hours of battery life, a MicroSD card slot to store the massive library of Pokemonn data and images, and a USB-C port connected directly to the chip for easy charging and programming. I included a physical D-pad (Up, Down, Left, Right, and an OK button), A/B action buttons, a 1W speaker with a small amplifier to play sound or noises.
+To plan my custom handheld Pokedex, I researched open sourced retro consoles and electronics websites like mouser to find parts that balance performance.For the brain, I chose the powerful ESP32-S3  I paired this with a sharp 3.5inc ips display. The system features a rechargeable 2500 mAh li-po battery for hours of battery life, a MicroSD card slot to store the massive library of Pokemonn data and images, and a USB-C port connected directly to the chip for easy charging and programming. I included a physical D-pad (Up, Down, Left, Right, and an OK button), A/B action buttons, a 1W speaker with a small amplifier to play sound or noises.
+
 ------
 # date:16/7
 # time spent:1hr
@@ -35,7 +36,7 @@ I then added the a microSD card socket with a 100nF bypass capacitor and a 10k p
 # date:17/7
 # time spent:1hr
 ## description:
-I added the buttons and sound for the device!For the D-pad and action buttons, i made a set up a layout using clicky little switches that sit right under a plastic cross cap, so every press feels responsive when you're clicking through menus. On the audio side, i kept a  that would've accidentally muted the whole thing but somehow fixed the eroor!
+first i have researched about different kinds of switches and then I added the buttons and sound for the device!For the D-pad and action buttons, i made a set up a layout using clicky little switches that sit right under a plastic cross cap, so every press feels responsive when you're clicking through menus. On the audio side, i kept a  that would've accidentally muted the whole thing but somehow fixed the error!
 ## images:
 <img width="927" height="432" alt="image" src="https://github.com/user-attachments/assets/a4b7664d-8a31-4307-8793-ffd90ac7b779" />
 <img width="696" height="365" alt="image" src="https://github.com/user-attachments/assets/94ac835c-83dd-4fc9-9963-105d5f8dea15" />
