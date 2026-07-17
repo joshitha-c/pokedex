@@ -1,4 +1,4 @@
-<img width="1723" height="667" alt="image" src="https://github.com/user-attachments/assets/edf69f8c-847a-40c1-88f2-08b5e5468ae1" /># date:16/7
+# date:16/7
 # time spent:1hr
 ## description:
 To plan my custom handheld Pokédex, I researched open sourced retro consoles and electronics websites like mouser to find parts that balance performance.For the brain, I chose the powerful ESP32-S3  I paired this with a sharp 3.5inc ips display. The system features a rechargeable 2500 mAh li-po battery for hours of battery life, a MicroSD card slot to store the massive library of Pokemonn data and images, and a USB-C port connected directly to the chip for easy charging and programming. I included a physical D-pad (Up, Down, Left, Right, and an OK button), A/B action buttons, a 1W speaker with a small amplifier to play sound or noises.
