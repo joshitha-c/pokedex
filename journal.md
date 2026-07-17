@@ -32,3 +32,14 @@ I then added the a microSD card socket with a 100nF bypass capacitor and a 10k p
 <img width="1045" height="596" alt="image" src="https://github.com/user-attachments/assets/a7cc148a-eaad-443d-94bf-5959de8a2805" />
 
 -------
+# date:17/7
+# time spent:1hr
+## description:
+I added the buttons and sound for the device!For the D-pad and action buttons, i made a set up a layout using clicky little switches that sit right under a plastic cross cap, so every press feels responsive when you're clicking through menus. On the audio side, i kept a  that would've accidentally muted the whole thing but somehow fixed the eroor!
+## images:
+<img width="927" height="432" alt="image" src="https://github.com/user-attachments/assets/a4b7664d-8a31-4307-8793-ffd90ac7b779" />
+<img width="696" height="365" alt="image" src="https://github.com/user-attachments/assets/94ac835c-83dd-4fc9-9963-105d5f8dea15" />
+<img width="296" height="346" alt="image" src="https://github.com/user-attachments/assets/6ba5347d-30b3-495d-b643-d865078f7d43" />
+
+-------
+
