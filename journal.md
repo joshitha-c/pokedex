@@ -22,3 +22,13 @@ so far i got the esp32-s3 chip put down right in the middle of the page and conn
 <img width="1327" height="787" alt="image" src="https://github.com/user-attachments/assets/36a4df69-9d7e-4e51-852e-2075619ce1a6" />
 
 -------
+# date:17/7
+# time spent:1hr
+## description:
+So far i have moved on to the display, i placed an 8-pin connector for the ST7789 module, added a 100nF capacitor , and also connected the backlight to 3.3V, and mapped the SPI lines to GPIO10, GPIO8, GPIO9, GPIO11, and GPIO12.
+I then added the a microSD card socket with a 100nF bypass capacitor and a 10k pull-up resistor . I initially made a few critical mistakes including an accidental dead short circuit across the capacitor and grounding the the resistor i then rechecked it and found the mistake and then i resolved it.
+## images:
+<img width="1121" height="676" alt="image" src="https://github.com/user-attachments/assets/65a50b19-6c93-48d8-a041-2a132ecc9267" />
+<img width="1045" height="596" alt="image" src="https://github.com/user-attachments/assets/a7cc148a-eaad-443d-94bf-5959de8a2805" />
+
+-------
