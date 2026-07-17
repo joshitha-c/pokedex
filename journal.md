@@ -54,4 +54,15 @@ Firstly i searched about different types of rgb light neede i thoought to keep t
 <img width="693" height="457" alt="image" src="https://github.com/user-attachments/assets/78169851-698c-4c8b-8bcf-b4b5ac382ad8" />
 
 -------
+# date:17/7
+# time spent:1hr
+## description:
+i have started the assigning footprints which seemed very easy but i honestly dont know which footprints i have to assign so I searched in the internet and found few but when i applied those in the footprints secction it resulted in errors ,so i had fixed each one many errors were because of the missing pads or the additional pads and now i had added all the footprints and it had no errors too,i am not sure these are permanent i am thinking to do more research and change the switches footprints to other because they may dont suit the deivice thinking of an gameboy switch design ,i will check tomorrow and cahnge those switches footprint again
+## images:
+<img width="1616" height="880" alt="image" src="https://github.com/user-attachments/assets/c47c2f2b-287b-4f05-b604-cd0705448779" />
+<img width="1612" height="885" alt="image" src="https://github.com/user-attachments/assets/759019d2-f2e2-4461-bbcc-86c9bebc2283" />
+<img width="762" height="687" alt="image" src="https://github.com/user-attachments/assets/8e4c47fd-af40-494a-8a05-040ebc0ac11b" />
+<img width="757" height="678" alt="image" src="https://github.com/user-attachments/assets/38279388-fe3b-4843-9280-116d593442ff" />
+<img width="742" height="771" alt="image" src="https://github.com/user-attachments/assets/18794b77-bb63-4605-8c8f-c1b6fe75f25b" />
 
+-------
