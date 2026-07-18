@@ -76,3 +76,13 @@ In yesterday's journal i have said that i had to change the footprints for the d
 <img width="730" height="632" alt="image" src="https://github.com/user-attachments/assets/4345f023-1aea-47d3-a38b-2784947a1050" />
 
 -------
+# date:18/7
+# time spent:1.5hr
+## description:
+I had completed the routing part which was fun but at the esp2040 it was tough and confusing and then it took most of the time in figuring out how should i place the vias or how should move them,but atlast i have completed the erc and now it is time for the erc and some customisation!!
+## images:
+<img width="655" height="578" alt="image" src="https://github.com/user-attachments/assets/39d76a48-fcd5-4454-a807-19809433762d" />
+<img width="887" height="708" alt="image" src="https://github.com/user-attachments/assets/854c9078-8f8d-4707-a2a9-372f5d222bfd" />
+
+-------
+
