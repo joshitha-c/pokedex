@@ -66,3 +66,13 @@ i have started the assigning footprints which seemed very easy but i honestly do
 <img width="742" height="771" alt="image" src="https://github.com/user-attachments/assets/18794b77-bb63-4605-8c8f-c1b6fe75f25b" />
 
 -------
+# date:18/7
+# time spent:1.5hr
+## description:
+In yesterday's journal i have said that i had to change the footprints for the d-pad ,so after searching i had got an perfect footprints that will match and now i got all the objects in a bunch now before i route ,i must arrange all the parts in a perfect layoout so i had arranged all the parts slowly one by one.There were literally 15 capacitors,15 resistors ,and i had arranged in a layout so i had completed the layout and now it is time for the routing!!!
+## images:
+<img width="755" height="612" alt="image" src="https://github.com/user-attachments/assets/4dc5f05c-dc87-494a-90ae-0f76c07500f7" />
+<img width="497" height="613" alt="image" src="https://github.com/user-attachments/assets/8628a73a-23ed-4dfd-b96c-43eefe48635c" />
+<img width="730" height="632" alt="image" src="https://github.com/user-attachments/assets/4345f023-1aea-47d3-a38b-2784947a1050" />
+
+-------
