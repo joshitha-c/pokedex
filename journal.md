@@ -86,3 +86,13 @@ I had completed the routing part which was fun but at the esp2040 it was tough a
 
 -------
 
+# date:18/7
+# time spent:0.75hr
+## description:
+I had started with the fixing the drc issues and i fixed all of them that were mainly some connection errors or the clearance aerrors,but i checkedd each of them and fixed all and then i have addded images of pokemon in this project and also made it on the sikscreen,now i had completed the pcb part,next is the cad building.
+## images:
+<img width="772" height="531" alt="image" src="https://github.com/user-attachments/assets/d3ea830c-127c-47dd-b388-aba81b2890ca" />
+<img width="816" height="761" alt="image" src="https://github.com/user-attachments/assets/f9c23612-b54f-4666-a826-92c56c3bc645" />
+<img width="740" height="655" alt="image" src="https://github.com/user-attachments/assets/429518fa-6e2f-451d-870c-c33e6d3bd492" />
+
+-------
