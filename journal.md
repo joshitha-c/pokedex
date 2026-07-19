@@ -117,3 +117,12 @@ I had just started building the cad ,at first i built the base with some edges a
 <img width="1182" height="241" alt="image" src="https://github.com/user-attachments/assets/bd2a0d27-cf6c-4dbb-b049-c92cd5488783" />
 
 -------
+# date:19/7
+# time spent:1hr
+## description:
+I have just started the cad and too check the dimension of everything i just added the step file from the pcb and to the cad by downloading it and i uploaded in the fusion and then i had checked that the headers are small so i added some part for the base and then i made a cut through for the screen so that it doesn't looks empty.
+## images:
+<img width="1911" height="747" alt="image" src="https://github.com/user-attachments/assets/fc2c7de8-62b1-4d54-9574-2d97bb43fee6" />
+<img width="816" height="727" alt="image" src="https://github.com/user-attachments/assets/ddaf63eb-9938-4bdd-a0e5-0c4f6d464690" />
+
+-------
