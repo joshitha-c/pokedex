@@ -106,3 +106,14 @@ Now, i have started the cad part in my project first i have measured the dimensi
 <img width="793" height="652" alt="image" src="https://github.com/user-attachments/assets/e815a362-fb84-43cb-b96a-c141f45ca176" />
 
 -------
+# date:19/7
+# time spent:1hr
+## description:
+I had just started building the cad ,at first i built the base with some edges and then curved the corners so that it would be nice and then i had extruded and then i had cut the body for the wholes of the microsd slot and the usb c port which was honestly so time taking as i should measure each of the dimension in pcb and then cut the part in the cad, and then i checked few colors,and the colored it with a red glossy theme.
+
+## images:
+<img width="585" height="627" alt="image" src="https://github.com/user-attachments/assets/b6f0d201-b551-4c0d-b2c4-4469425cf61d" />
+<img width="602" height="610" alt="image" src="https://github.com/user-attachments/assets/5d4c8b57-3fac-4f28-a89a-2203b2a53462" />
+<img width="1182" height="241" alt="image" src="https://github.com/user-attachments/assets/bd2a0d27-cf6c-4dbb-b049-c92cd5488783" />
+
+-------
