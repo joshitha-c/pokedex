@@ -96,3 +96,13 @@ I had started with the fixing the drc issues and i fixed all of them that were m
 <img width="740" height="655" alt="image" src="https://github.com/user-attachments/assets/429518fa-6e2f-451d-870c-c33e6d3bd492" />
 
 -------
+# date:19/7
+# time spent:1hr
+## description:
+Now, i have started the cad part in my project first i have measured the dimensions of the pcb and then plotted in the fusion ,but one major issue is the pcb doesn't has the screen rather it have a small con 01*08 and then i should add the screen so i had searched for the different ypes of screen and i got these 2.8" ILI9341 SPI TFT Display but it was way to big compare to mypcb ,so i have changed it to 2.0" 320x240 Color IPS TFT Display  and it actually fit my case now i should start the case
+## images:
+<img width="1825" height="822" alt="image" src="https://github.com/user-attachments/assets/41ac2bee-076f-4c18-bcfb-f4c351c1903d" />
+<img width="912" height="202" alt="image" src="https://github.com/user-attachments/assets/d701ae4d-d40f-4ca8-a9a8-21cef7f29af4" />
+<img width="793" height="652" alt="image" src="https://github.com/user-attachments/assets/e815a362-fb84-43cb-b96a-c141f45ca176" />
+
+-------
