@@ -126,3 +126,20 @@ I have just started the cad and too check the dimension of everything i just add
 <img width="816" height="727" alt="image" src="https://github.com/user-attachments/assets/ddaf63eb-9938-4bdd-a0e5-0c4f6d464690" />
 
 -------
+# date:20/7
+# time spent:1hr
+## description:
+I got a best design for the cad i had a idea to draw a pokeball instead ofadding an image,so i drew a pokeball on the backside of my case which wasn't that easy so i was writing down the dimensions of it and then drawing the pokeball,and honestly it matched the design now,and it looks nice!!
+## images:
+<img width="485" height="681" alt="image" src="https://github.com/user-attachments/assets/eeae49e0-19ed-4dc5-a66e-80edaba82b52" />
+<img width="1377" height="681" alt="image" src="https://github.com/user-attachments/assets/27c3c4d1-77a0-40c5-aad8-f1a5033a4983" />
+
+
+-------
+# date:20/7
+# time spent:1hr
+## description:
+I have started the software part, this was my first time building  the software so i installed arduino ide but after searching i found that we need the hardware pcb and the screen so that we can see the changes so checked for other options and found out that a website named wowki and in that i was doing the basic coding part just seeing how the code is gonna work,so i made some basic startup design for the screen
+<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/aa2cee3c-1c2f-4b1d-b026-55ad6f022c90" />
+
+-------
