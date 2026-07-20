@@ -140,6 +140,18 @@ I got a best design for the cad i had a idea to draw a pokeball instead ofadding
 # time spent:1hr
 ## description:
 I have started the software part, this was my first time building  the software so i installed arduino ide but after searching i found that we need the hardware pcb and the screen so that we can see the changes so checked for other options and found out that a website named wowki and in that i was doing the basic coding part just seeing how the code is gonna work,so i made some basic startup design for the screen
+## images:
 <img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/aa2cee3c-1c2f-4b1d-b026-55ad6f022c90" />
+
+-------
+# date:20/7
+# time spent:1.5hr
+## description:
+Now i am understanding the basics of the coding in esp and now i have made a loading screen which shows the pokedex loading and then it gives us the options to select and this i made this functional,functional in the sense it doesn't work after we open but i made it work with the buttons like if we press down button the pointer moves down or if we press up button the pointer moves it up and i was too confused making it and this part i use dsome help of ai to debbug honestly now i am understanding some part of the coding setup.
+## images:
+<img width="950" height="911" alt="image" src="https://github.com/user-attachments/assets/2c2cf581-ff0a-4063-a994-be8e5d8d5648" />
+<img width="947" height="843" alt="image" src="https://github.com/user-attachments/assets/cbb89636-21d3-4a6c-8ccf-7929ab29f676" />
+<img width="950" height="911" alt="image" src="https://github.com/user-attachments/assets/0423613f-5229-4f0c-a2ef-0951b34b3bb0" />
+
 
 -------
