@@ -165,3 +165,15 @@ I have just started making everythiing functionally,in this journal i had comple
 <img width="957" height="792" alt="image" src="https://github.com/user-attachments/assets/cf50738e-d501-411f-bf4d-8db96b448c62" />
 
 -------
+# date:21/7
+# time spent:1hr
+## description:
+As i completed the battery part i have moved to the browse pokemon section as this is the main part and also i have all the required items such as sddd card that can render images ,so i have added an sd card in the wokwi.com and then ihave conneccted it but when i try to add files in the sd card it said we have to pay so i was chedcking for the other types so that i can show you how the simulation work ,but after searching a lot i have found a website that converts into a binary code rather than a file so i had converted it and then i had ccopied the binary code and it was 200 lines for an image which was so large for a image ,though i made an another file for it and then ran the simulator it hadn't work because before my code use to rum between 50-60sec to compile but after including these files it had almost took 120sec which is large though it took that many hrs it didn't compile due to no server issue i tried multiple times but it wasn't working,i know it is pretty hard for a online compiler to run so many files all at once,so i am thing to run these simulators locaolly and i am thinking to innstall the simulators in the next journal.
+# images:
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/1f390bcc-46ca-49ab-a744-423655abcdeb" />
+<img width="1892" height="952" alt="image" src="https://github.com/user-attachments/assets/dd864efc-945e-4eeb-b47e-cb0fbfb32a0d" />
+<img width="1243" height="827" alt="image" src="https://github.com/user-attachments/assets/18dc49d6-1547-4ba0-9aa0-be0fcb6c14f2" />
+<img width="512" height="185" alt="image" src="https://github.com/user-attachments/assets/82b7b039-f99f-4e21-bfb7-f718d5535d7c" />
+
+
+-------
