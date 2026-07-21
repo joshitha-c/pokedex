@@ -153,5 +153,15 @@ Now i am understanding the basics of the coding in esp and now i have made a loa
 <img width="947" height="843" alt="image" src="https://github.com/user-attachments/assets/cbb89636-21d3-4a6c-8ccf-7929ab29f676" />
 <img width="950" height="911" alt="image" src="https://github.com/user-attachments/assets/0423613f-5229-4f0c-a2ef-0951b34b3bb0" />
 
+-------
+# date:21/7
+# time spent:1.5hr
+## description:
+I have just started making everythiing functionally,in this journal i had completed the battery section completely,i fixed all the bugs in it and i started by connecting a potentiometer that can ac as battery,so i firstly checked how to check battery in this and then there was a formula that converts volts to the percentage we know and then it worked perfectly showing the exact percentage ,,so i started displaying it fine in the battery  section so i took few attempts drawing a rectangle and then to get the bars i divided the total percentage by 25 to get number of bars to keep and then i converted it into the green bars representing the battery percentage and for the usability i have also mentioned the percentage below the bars.
+# images:
+<img width="943" height="820" alt="image" src="https://github.com/user-attachments/assets/3f789330-d286-4af5-b150-54a488f7b666" />
+<img width="742" height="282" alt="image" src="https://github.com/user-attachments/assets/ada7fcf1-c1df-46d5-9843-0a5a8dc9c795" />
+<img width="962" height="805" alt="image" src="https://github.com/user-attachments/assets/8884e3a6-e2bc-4b9d-bab1-780e7b81aa0b" />
+<img width="957" height="792" alt="image" src="https://github.com/user-attachments/assets/cf50738e-d501-411f-bf4d-8db96b448c62" />
 
 -------
