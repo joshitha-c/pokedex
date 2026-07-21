@@ -177,3 +177,16 @@ As i completed the battery part i have moved to the browse pokemon section as th
 
 
 -------
+# date:21/7
+# time spent:1.5hr
+## description:
+As in my last journal i have said that the images were not working,so now i had installed the wokwi.com simulator and firstly i thought that the rendering an image would be easy i tried a lot to make it render but it wasn't working it wasn't showing the image i tried multiple times,i also used ai help for thee debugging process ,so rather than wasting time on this i used the image2cpp converter and converted it into binary,and it worked but one problem is that for every image i must make different files,now i will work on repositioning of the images and add multiple pokemon
+
+# images:
+<img width="427" height="575" alt="image" src="https://github.com/user-attachments/assets/6b781c1f-965c-48c3-9999-bf02451d226c" />
+<img width="1203" height="822" alt="image" src="https://github.com/user-attachments/assets/49e957cf-4649-4347-a078-21e93dc18d16" />
+<img width="1192" height="837" alt="image" src="https://github.com/user-attachments/assets/75752ede-a7b9-4ec5-a227-02a8e028e988" />
+<img width="321" height="526" alt="image" src="https://github.com/user-attachments/assets/aa9ffef9-64c4-4866-afc2-e57879c2fe74" />
+<img width="1143" height="607" alt="image" src="https://github.com/user-attachments/assets/17345bed-3efc-4995-b45c-303e4a2c7e3d" />
+
+-------
