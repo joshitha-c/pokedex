@@ -190,3 +190,15 @@ As in my last journal i have said that the images were not working,so now i had 
 <img width="1143" height="607" alt="image" src="https://github.com/user-attachments/assets/17345bed-3efc-4995-b45c-303e4a2c7e3d" />
 
 -------
+# date:22/7
+# time spent:1.25hr
+## description:
+ I had tried the using of .bmp images int the editor once again,but it hasn't worked again and i tried for a .5hrs and then left and nthen i have took all the pokemon images in the folder and converted it to .bmp and then converted it into the cpp and then we wrote the code again,and i will add few pokemons only so for testing i have only added 10 pokemons,will add more in v2.
+# images:
+<img width="303" height="398" alt="image" src="https://github.com/user-attachments/assets/b419c04e-b878-4474-9eda-1f3cbd5bcca4" />
+<img width="1746" height="917" alt="image" src="https://github.com/user-attachments/assets/b195f4e0-939e-45b6-b7de-993d9331468a" />
+<img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/b48fbdbb-0893-460f-9e34-81b444a0a1e5" />
+https://github.com/user-attachments/assets/a74680ac-1b0c-459e-b183-f4146164fc2c
+
+
+-------
