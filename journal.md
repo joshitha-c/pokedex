@@ -200,5 +200,13 @@ As in my last journal i have said that the images were not working,so now i had 
 <img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/b48fbdbb-0893-460f-9e34-81b444a0a1e5" />
 https://github.com/user-attachments/assets/a74680ac-1b0c-459e-b183-f4146164fc2c
 
+-------
+# date:22/7
+# time spent:1.25hr
+## description:
+I had started the making of the speaker ,so i had connected a speaker and for the tunes i had searched the ineternet and found one which was fine and then when i was adding teh code from it ,the sound wasn't playing in the vscode ,so i checked it and then i had understood the vscode doesn't have the sound feature or ig the vscode mutes the wokwi simulator,,but when i built it it may work.
+# images:
+<img width="488" height="401" alt="image" src="https://github.com/user-attachments/assets/db934386-75c7-4651-a1dd-7692beea4843" />
+<img width="675" height="586" alt="image" src="https://github.com/user-attachments/assets/5872a34a-f5f3-4ffd-adaf-c24ee886cf5c" />
 
 -------
