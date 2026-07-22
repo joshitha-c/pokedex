@@ -1,4 +1,4 @@
-# date:16/7
+<img width="812" height="621" alt="image" src="https://github.com/user-attachments/assets/13de2a89-b35a-43a1-854c-430c89c81f8c" /># date:16/7
 # time spent:1hr
 ## description:
 To plan my custom handheld Pokedex, I researched open sourced retro consoles and electronics websites like mouser to find parts that balance performance.For the brain, I chose the powerful ESP32-S3  I paired this with a sharp 3.5inc ips display. The system features a rechargeable 2500 mAh li-po battery for hours of battery life, a MicroSD card slot to store the massive library of Pokemonn data and images, and a USB-C port connected directly to the chip for easy charging and programming. I included a physical D-pad (Up, Down, Left, Right, and an OK button), A/B action buttons, a 1W speaker with a small amplifier to play sound or noises.
@@ -208,5 +208,24 @@ I had started the making of the speaker ,so i had connected a speaker and for th
 # images:
 <img width="488" height="401" alt="image" src="https://github.com/user-attachments/assets/db934386-75c7-4651-a1dd-7692beea4843" />
 <img width="675" height="586" alt="image" src="https://github.com/user-attachments/assets/5872a34a-f5f3-4ffd-adaf-c24ee886cf5c" />
+
+-------
+# date:22/7
+# time spent:0.5hr
+## description:
+I have generated 10 pokemon info for each one by the pokemon website and also added upto 2 attacks for each pokemon with their unique id included and also adde the pokemon type for each one in notepad.
+# images:
+<img width="1132" height="700" alt="image" src="https://github.com/user-attachments/assets/f02105c7-91b7-4838-8211-617e7ce4092c" />
+
+-------
+# date:22/7
+# time spent:1hr
+## description:
+I have started the browse pokemon section in the pokedex so i had created a list on the left side and then dividing it with a blue line and as the palyer moves down the right side pokemon desciption updated and the pokemon description i took from the above journal which i had written in the notepad and then the next part is the search section i am going to do next.
+# images:
+<img width="581" height="813" alt="image" src="https://github.com/user-attachments/assets/1dae3838-32a5-4b0c-98f5-2af803e04bbf" />
+<img width="631" height="807" alt="image" src="https://github.com/user-attachments/assets/7d95a363-2ef7-4296-be8a-3213fa002e10" />
+<img width="672" height="82" alt="image" src="https://github.com/user-attachments/assets/4fe54b04-3249-4a59-981c-f622eec40fa9" />
+<img width="812" height="621" alt="image" src="https://github.com/user-attachments/assets/c31773b7-a5c7-4b71-9d0b-8388ae93ba31" />
 
 -------
