@@ -239,3 +239,13 @@ I have thought to remove the search section rather i added the section named who
 <img width="807" height="192" alt="image" src="https://github.com/user-attachments/assets/bf8b9b1c-28b3-4ab6-967f-03507ed6e4e2" />
 
 -------
+# date:23/7
+# time spent:1hr
+## description:
+I have completed adding the section of the who's the pokemon in the main menu and then i have adde it's inner part in the section i made the layout for the image,for the options and then adjusted the layout for those manually and then i should add some questions to this section.
+# images:
+<img width="507" height="473" alt="image" src="https://github.com/user-attachments/assets/1ba283b3-ba23-4f33-9601-3f5ea0517643" />
+<img width="803" height="302" alt="image" src="https://github.com/user-attachments/assets/c83873fa-3a5c-476e-a8d3-5c08270bb14d" />
+<img width="680" height="475" alt="image" src="https://github.com/user-attachments/assets/942066a7-5c50-47fe-9a84-b4005ce61efb" />
+
+-------
