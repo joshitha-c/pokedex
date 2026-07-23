@@ -1,4 +1,4 @@
-<img width="812" height="621" alt="image" src="https://github.com/user-attachments/assets/13de2a89-b35a-43a1-854c-430c89c81f8c" /># date:16/7
+# date:16/7
 # time spent:1hr
 ## description:
 To plan my custom handheld Pokedex, I researched open sourced retro consoles and electronics websites like mouser to find parts that balance performance.For the brain, I chose the powerful ESP32-S3  I paired this with a sharp 3.5inc ips display. The system features a rechargeable 2500 mAh li-po battery for hours of battery life, a MicroSD card slot to store the massive library of Pokemonn data and images, and a USB-C port connected directly to the chip for easy charging and programming. I included a physical D-pad (Up, Down, Left, Right, and an OK button), A/B action buttons, a 1W speaker with a small amplifier to play sound or noises.
@@ -227,5 +227,15 @@ I have started the browse pokemon section in the pokedex so i had created a list
 <img width="631" height="807" alt="image" src="https://github.com/user-attachments/assets/7d95a363-2ef7-4296-be8a-3213fa002e10" />
 <img width="672" height="82" alt="image" src="https://github.com/user-attachments/assets/4fe54b04-3249-4a59-981c-f622eec40fa9" />
 <img width="812" height="621" alt="image" src="https://github.com/user-attachments/assets/c31773b7-a5c7-4b71-9d0b-8388ae93ba31" />
+
+-------
+# date:23/7
+# time spent:0.5hr
+## description:
+I have thought to remove the search section rather i added the section named who's the pokemon? section so for the test purpose i have collected 3 pokemons and then i couloured it with black so that it isn't visile and converted it inot bitmap andd pasted in the code,now i must code the layout in the esp controller.
+# images:
+<img width="1452" height="851" alt="image" src="https://github.com/user-attachments/assets/afa63c31-1fdf-48de-a434-313abbda37a3" />
+<img width="565" height="325" alt="image" src="https://github.com/user-attachments/assets/093a5ae9-0ae6-4281-a50d-b7f5af895ba9" />
+<img width="807" height="192" alt="image" src="https://github.com/user-attachments/assets/bf8b9b1c-28b3-4ab6-967f-03507ed6e4e2" />
 
 -------
