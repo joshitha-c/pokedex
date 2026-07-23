@@ -249,3 +249,14 @@ I have completed adding the section of the who's the pokemon in the main menu an
 <img width="680" height="475" alt="image" src="https://github.com/user-attachments/assets/942066a7-5c50-47fe-9a84-b4005ce61efb" />
 
 -------
+# date:23/7
+# time spent:0.75hr
+## description:
+In the layout i have connected the images with the objects and then i added the images first and then i have added then adde suitable pokemons and then i have added the 3 types of questions and then i have started adding the controls for this all and then made the pokemons name visible after click with the name and also if it is clicked wrong an answer will be displayed!!!!
+# images:
+<img width="802" height="297" alt="image" src="https://github.com/user-attachments/assets/9d05db92-00e0-495e-b17a-e3e64f3016d3" />
+<img width="510" height="225" alt="image" src="https://github.com/user-attachments/assets/dfcb39a7-be93-434f-8f95-606d0b09fe94" />
+<img width="420" height="570" alt="image" src="https://github.com/user-attachments/assets/49abf5d1-9ec6-468c-acb8-c4d5bde52414" />
+<img width="402" height="561" alt="image" src="https://github.com/user-attachments/assets/ff7b7e77-2a00-4570-86ab-7ce86bafb9a0" />
+
+--------
