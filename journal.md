@@ -260,3 +260,13 @@ In the layout i have connected the images with the objects and then i added the 
 <img width="402" height="561" alt="image" src="https://github.com/user-attachments/assets/ff7b7e77-2a00-4570-86ab-7ce86bafb9a0" />
 
 --------
+# date:24/7
+# time spent:1hr
+## description:
+I have studied about the esp s3 and the how to off it but i tried to write acode on offing but it didn't work ,so to make the settings section work i have added the restart button this manually restarts the esp controller and then also added the volume mute button in the settings sections so that it will mute the bgm from the background.
+# images:
+<img width="593" height="292" alt="image" src="https://github.com/user-attachments/assets/75bc3a23-b352-4248-a336-d446897f794d" />
+<img width="1025" height="707" alt="image" src="https://github.com/user-attachments/assets/2a98d07c-b2e2-4bf4-bc71-b8129931c856" />
+<img width="840" height="542" alt="image" src="https://github.com/user-attachments/assets/c5acd67a-8186-491a-ae63-20af7d4ea47a" />
+
+--------
