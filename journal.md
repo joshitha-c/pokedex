@@ -225,7 +225,6 @@ I have started the browse pokemon section in the pokedex so i had created a list
 # images:
 <img width="581" height="813" alt="image" src="https://github.com/user-attachments/assets/1dae3838-32a5-4b0c-98f5-2af803e04bbf" />
 <img width="631" height="807" alt="image" src="https://github.com/user-attachments/assets/7d95a363-2ef7-4296-be8a-3213fa002e10" />
-<img width="672" height="82" alt="image" src="https://github.com/user-attachments/assets/4fe54b04-3249-4a59-981c-f622eec40fa9" />
 <img width="812" height="621" alt="image" src="https://github.com/user-attachments/assets/c31773b7-a5c7-4b71-9d0b-8388ae93ba31" />
 
 -------
@@ -250,7 +249,7 @@ I have completed adding the section of the who's the pokemon in the main menu an
 
 -------
 # date:23/7
-# time spent:0.75hr
+# time spent1hr
 ## description:
 In the layout i have connected the images with the objects and then i added the images first and then i have added then adde suitable pokemons and then i have added the 3 types of questions and then i have started adding the controls for this all and then made the pokemons name visible after click with the name and also if it is clicked wrong an answer will be displayed!!!!
 # images:
@@ -278,3 +277,11 @@ I have started debugging the code the code one major problem was that the code w
 <img width="820" height="582" alt="image" src="https://github.com/user-attachments/assets/3ccfb981-f389-4947-aa4f-cd29debf4728" />
 
 --------
+# date:25/7
+# time spent:0.75hr
+## description:
+I had completed the readme and also i had exported the gerber files and also exported the cad files in the repo and then i had zipped the simulator and released it in the github repo.
+
+--------
+# Total hrs:30.5hrs
+## Tech: kicad,fusion 360,wokwi online simulator
