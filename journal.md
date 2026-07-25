@@ -270,3 +270,11 @@ I have studied about the esp s3 and the how to off it but i tried to write acode
 <img width="840" height="542" alt="image" src="https://github.com/user-attachments/assets/c5acd67a-8186-491a-ae63-20af7d4ea47a" />
 
 --------
+# date:25/7
+# time spent:1hr
+## description:
+I have started debugging the code the code one major problem was that the code when we go down in each pokemon and see them in the browse list it was not working fine ,that means that it was pressing double times in the screen and then the battery was not working properly rather it was having some glitch and also i fixed it too.
+# images:
+<img width="820" height="582" alt="image" src="https://github.com/user-attachments/assets/3ccfb981-f389-4947-aa4f-cd29debf4728" />
+
+--------
