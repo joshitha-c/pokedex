@@ -36,12 +36,10 @@ This project features a custom Pokédex UI with a Pokémon entry browser, a *"Wh
 ### Hardware: Kicad,Fusion 360.
 ---
 
-## 🤖 AI Usage Disclosure
+## AI Usage Disclosure
 
-> 🧠 **Minimal & Human-Led Development:**
-> * **Software Debugging & Logic:** AI was used sparingly—primarily for diagnosing C++ type mismatch compiler errors and validating array index alignments.
-> * **Hardware Layout & UI:** The physical pin layout, menu navigation state machines, pixel-art drawing logic, and FreeRTOS task assignment were designed manually to ensure optimal hardware performance and authentic retro aesthetics.
-
+>  **Minimal & Human-Led Development:**
+> * AI was used s for diagnosing C++ type mismatch compiler errors and validating array index alignments and also some debugging errors and some color changes with layout and i learnt from ths ,how to use wokwi simulator
 ---
 ## How to Open and Use the ZIP Project in VS Code
 
