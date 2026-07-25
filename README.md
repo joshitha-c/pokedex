@@ -30,7 +30,19 @@ This project features a custom Pokédex UI with a Pokémon entry browser, a *"Wh
 
 ---
 ---
+## Tech Stack
 
+### Software & Firmware:Wokwi online simulator.
+### Hardware: Kicad,Fusion 360.
+---
+
+## 🤖 AI Usage Disclosure
+
+> 🧠 **Minimal & Human-Led Development:**
+> * **Software Debugging & Logic:** AI was used sparingly—primarily for diagnosing C++ type mismatch compiler errors and validating array index alignments.
+> * **Hardware Layout & UI:** The physical pin layout, menu navigation state machines, pixel-art drawing logic, and FreeRTOS task assignment were designed manually to ensure optimal hardware performance and authentic retro aesthetics.
+
+---
 ## How to Open and Use the ZIP Project in VS Code
 
 Follow these steps to extract, open, and run the project inside Visual Studio Code using PlatformIO and the Wokwi Simulator.
@@ -76,3 +88,21 @@ If you haven't set up Visual Studio Code for ESP32 development yet, install the 
    * Click **Build** (`✓`) to compile the code.
    * Click **Upload** (`→`) to flash the firmware onto your physical ESP32.
    * Click **Serial Monitor** (`plug icon`) to view debugging terminal outputs at `115200` baud rate.
+
+>  **Buzzer Audio in VS Code:**
+> The **passive buzzer audio will NOT play** when running the Wokwi simulator inside the **VS Code Extension**. This is a known technical limitation of the local VS Code extension environment. 
+> * If you want to **listen to the sound effects and music**, open the `diagram.json` file online directly at **[Wokwi.com](https://wokwi.com)**.
+
+---
+
+>  **Battery Level Simulation (Potentiometer Knob):**
+> * In the simulator, the battery level is simulated using a **potentiometer (rotary knob)** wired to GPIO 36 (VP).
+> * **How to test battery levels:** While the simulation is running, **click and drag the knob** on the potentiometer in the simulator window to increase or decrease the voltage.
+> * Navigating to **Menu → Battery** will instantly reflect the real-time battery percentage and bar graph as you turn the knob!
+# schematics:
+<img width="1127" height="793" alt="image" src="https://github.com/user-attachments/assets/10bac07b-6264-4ffc-a163-201cada7d89c" />
+## pcb files:
+<img width="740" height="655" alt="image" src="https://github.com/user-attachments/assets/d298d322-bd23-4a5e-ab36-206e456b0f31" />
+## cad case:
+<img width="816" height="727" alt="image" src="https://github.com/user-attachments/assets/2ad9de9d-9f97-4a2e-bed9-9f6a601399b4" />
+<img width="896" height="557" alt="image" src="https://github.com/user-attachments/assets/cf67cbe3-e9f6-4047-a0d0-d32c6082a08a" />
