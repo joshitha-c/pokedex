@@ -44,7 +44,7 @@ This project features a custom Pokédex UI with a Pokémon entry browser, a *"Wh
 ## How to Open and Use the ZIP Project in VS Code
 
 Follow these steps to extract, open, and run the project inside Visual Studio Code using PlatformIO and the Wokwi Simulator.
-The zip file:
+The zip file:it is in repo releases.
 ### 1. Unzip the Project Folder
 1. Locate the downloaded `.zip` file on your computer.
 2. Right-click the `.zip` file and select **Extract All...** (Windows) or double-click it (macOS).
