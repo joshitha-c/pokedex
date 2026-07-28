@@ -1,45 +1,37 @@
-# ESP32 Pokedex Handheld Device
-
-A retro Pokédex handheld built using an **ESP32 DevKit V1**, a **2.8" ILI9341 SPI TFT LCD**, directional buttons, a microSD card module, and a passive buzzer.
-
-This project features a custom Pokédex UI with a Pokémon entry browser, a *"Who's That Pokémon?"* mini-game, real-time battery voltage monitoring, dual-core audio processing, and Wokwi simulation support.
-
+# ESP32 Pokedex Handheld Device:
+* Its a retro pokedex handheld built using an ESP32 DevKit V1, a 2.8" ILI9341 TFT LCD, directional buttons, a microsd card module, and a passive buzzer.
+and in the v1 i have made the dedign in the kicad and then i had built the case and then the software part is built in wokwi simulator in this version i had built a pokedex which you can browse pokemon and then i also added a feature named who's the pokemon? which the player guesses the pokemon by image.
 ---
 
 ## Features
 
-* **Pokémon Browser:** View detailed entry pages including ID, name, type-colored badges, 16-bit RGB sprite bitmaps, movesets, and descriptive lore.
-* **"Who's That Pokémon?" Mini-Game:** Guess the silhouette of random Pokémon with multiple-choice options and instant reveal animations.
-* **Settings & Power Management:** Toggle sound effects, or trigger an ultra-low-power Deep Sleep mode using RTC wake-up configurations (`ext0` pin wake-up via the START button).
-* **Battery Gauge:** Live battery percentage and graphical bar visualizer powered by ADC readings from GPIO36 (VP).
-* **Dual-Core Audio Engine:** Background music runs on **Core 0** via FreeRTOS tasks (`xTaskCreatePinnedToCore`) to ensure smooth, lag-free UI rendering on **Core 1**.
-* **Flexible Display Options:** Supports 16-bit RGB565 bitmap array drawing from memory or fast 24-bit BMP image reading directly from a MicroSD card.
+* Pokemon Browser:For the v1 version i had included only a few pokemons with their basic details like the attack type and description
+* Who's That Pokemon? Mini Game: There is a section named who's the pokemon in which there would be a image beside that the user selects the correct pokemon in those options.
+* Settings & Power: TYou can restart the device in the settings section and then mute the device in the settings section,In the simulator i have added a potentiometer hat can represent a battery aand you can see the percentage in the battery section in device.
+
+* Flexible Display: The drawings are in the microsd which is then converted into bitmap arrays for displaying the pokemons.
 
 ---
 
-## Hardware Requirements
+## Hardware 
 
-| Component | Quantity | Details / Recommendation |
-| :--- | :---: | :--- |
-| **Microcontroller** | 1 | ESP32 DevKit V1 (30-pin / 38-pin) |
-| **Display** | 1 | 2.8" ILI9341 SPI TFT LCD (240x320 resolution) |
-| **Storage** | 1 | MicroSD Card SPI Module |
-| **Input** | 8 | Tactile Push Buttons (D-Pad, A, B, Select, Start) |
-| **Audio** | 1 | 5V / 3.3V Passive Buzzer |
-| **Battery Sense** | 1 | Potentiometer (Wokwi) or Voltage Divider (LiPo Battery) |
 
+* Microcontroller- ESP32 DevKit V1 
+* Display- 2.8" ILI9341 SPI TFT LCD 
+* Storage- MicroSD Card SPI Module 
+* Input-Tactile Push Buttons 
+* Audio- 5V / 3.3V Passive Buzzer 
+* Battery Sense Potentiometer (Wokwi) or Voltage Divider (LiPo Battery) 
 ---
----
-## Tech Stack
+## Tech Part:
 
 ### Software & Firmware:Wokwi online simulator.
 ### Hardware: Kicad,Fusion 360.
 ---
 
-## AI Usage Disclosure
+## AI Use:
 
->  **Minimal & Human-Led Development:**
-> * AI was used s for diagnosing C++ type mismatch compiler errors and validating array index alignments and also some debugging errors and some color changes with layout and i learnt from ths ,how to use wokwi simulator
+* I also used some debugging errors and some color changes with layout and i learnt from ths ,how to use wokwi simulator.
 ---
 ## How to Open and Use the ZIP Project in VS Code
 
@@ -87,15 +79,15 @@ If you haven't set up Visual Studio Code for ESP32 development yet, install the 
    * Click **Upload** (`→`) to flash the firmware onto your physical ESP32.
    * Click **Serial Monitor** (`plug icon`) to view debugging terminal outputs at `115200` baud rate.
 
->  **Buzzer Audio in VS Code:**
-> The **passive buzzer audio will NOT play** when running the Wokwi simulator inside the **VS Code Extension**. This is a known technical limitation of the local VS Code extension environment. 
-> * If you want to **listen to the sound effects and music**, open the `diagram.json` file online directly at **[Wokwi.com](https://wokwi.com)**.
+# Buzzer audio in vs Code:
+* The buzzer noise when running the Wokwi simulator inside the VS Code . The vscode mutes the sounfd from the wokwi simulator so you can't hear it. 
+* If you want to listen to the sound effects and music, open the diagram.json file online directly at **[Wokwi.com](https://wokwi.com)**.
 
 ---
 
->  **Battery Level Simulation (Potentiometer Knob):**
-> * In the simulator, the battery level is simulated using a **potentiometer (rotary knob)** wired to GPIO 36 (VP).
-> * **How to test battery levels:** While the simulation is running, **click and drag the knob** on the potentiometer in the simulator window to increase or decrease the voltage.
+#  Battery Level Simulation (Potentiometer Knob):
+*  In the simulator, the battery level is simulated using a potentiometer (rotary knob).
+* How to test battery levels: While the simulation is running, click and drag the knob clockwise on the potentiometer in the simulator window to increase or decrease the voltage.
 > * Navigating to **Menu → Battery** will instantly reflect the real-time battery percentage and bar graph as you turn the knob!
 # schematics:
 <img width="1127" height="793" alt="image" src="https://github.com/user-attachments/assets/10bac07b-6264-4ffc-a163-201cada7d89c" />
