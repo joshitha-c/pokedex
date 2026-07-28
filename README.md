@@ -71,14 +71,6 @@ If you haven't set up Visual Studio Code for ESP32 development yet, install the 
 3. Type **`Wokwi: Start Simulator`** and press **Enter**.
 4. The simulation window will open directly in VS Code, displaying the ILI9341 screen and animated buttons.
 
-#### Option B: Uploading to Real ESP32 Hardware
-1. Connect your ESP32 board to your computer via a USB cable.
-2. Click the **PlatformIO** alien icon on the left toolbar.
-3. Under the **Project Tasks** section, expand `env:esp32dev` (or click the bottom status bar icons):
-   * Click **Build** (`✓`) to compile the code.
-   * Click **Upload** (`→`) to flash the firmware onto your physical ESP32.
-   * Click **Serial Monitor** (`plug icon`) to view debugging terminal outputs at `115200` baud rate.
-
 # Buzzer audio in vs Code:
 * The buzzer noise when running the Wokwi simulator inside the VS Code . The vscode mutes the sounfd from the wokwi simulator so you can't hear it. 
 * If you want to listen to the sound effects and music, open the diagram.json file online directly at **[Wokwi.com](https://wokwi.com)**.
@@ -88,7 +80,6 @@ If you haven't set up Visual Studio Code for ESP32 development yet, install the 
 #  Battery Level Simulation (Potentiometer Knob):
 *  In the simulator, the battery level is simulated using a potentiometer (rotary knob).
 * How to test battery levels: While the simulation is running, click and drag the knob clockwise on the potentiometer in the simulator window to increase or decrease the voltage.
-> * Navigating to **Menu → Battery** will instantly reflect the real-time battery percentage and bar graph as you turn the knob!
 # schematics:
 <img width="1127" height="793" alt="image" src="https://github.com/user-attachments/assets/10bac07b-6264-4ffc-a163-201cada7d89c" />
 ## pcb files:
